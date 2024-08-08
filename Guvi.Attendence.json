@@ -1,0 +1,38 @@
+[
+  {
+    "_id": {
+      "$oid": "64fedc53c877bf3677214945"
+    },
+    "userId": 2,
+    "topicId": 1,
+    "attended": true,
+    "topicDate": "19.04.2020"
+  },
+  {
+    "_id": {
+      "$oid": "64fedc53c877bf3677214948"
+    },
+    "userId": 5,
+    "topicId": 1,
+    "attended": true,
+    "topicDate": "20.06.2020"
+  },
+  {
+    "_id": {
+      "$oid": "64fedc53c877bf3677214949"
+    },
+    "userId": 6,
+    "topicId": 1,
+    "attended": false,
+    "topicDate": "18.06.2020"
+  },
+  {
+    "_id": {
+      "$oid": "64fedc53c877bf367721494c"
+    },
+    "userId": 9,
+    "topicId": 1,
+    "attended": false,
+    "topicDate": "17.08.2020"
+  }
+]
